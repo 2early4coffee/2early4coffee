@@ -75,12 +75,12 @@ language       日本語 (Japanese)
 ```console
 $ ctcd ~/user/2early4coffee/about_me
 
-I'm in the middle of a deliberate shift into tech. Running a curiosity-driven learning experience that
-includes: learning to code,understanding how systems are built, solving problems. Hopefully one day
-I'll get to teach what I've learned to others.
+I'm in the middle of a deliberate shift into tech. Running a curiosity-driven learning experience that includes:
+learning to code,understanding how systems are built, solving problems. Hopefully one day I'll get to
+teach what I've learned to others.
 
-Not entirely sure about the career path yet; but I have a strong pull toward spatial engineering and
-interactive tech.
+Not entirely sure about the career path yet; but I have a strong pull toward spatial engineering and interactive
+tech.
 
 Open to: junior roles · collaboration · volunteer opportunities
          mentorship · job shadowing with experienced devs · peer-to-peer collabs
