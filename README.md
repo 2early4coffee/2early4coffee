@@ -27,7 +27,7 @@
 **Walter Roy**
 `@2early4coffee`
 
-*comms → design → code*
+*learning to code*
 
 </td>
 <td valign="top">
@@ -59,7 +59,7 @@ philosophy: every day's plan: {
 ---
 
 ```console
-$ ctcd ~/user/2early4coffee/stack/what_am_i_learning
+$ ctcd ~/user/2early4coffee/stack/what_i_am_learning
 
 learning       React · Angular · Django · a bit of Java · DSA
 building with  Docker · PostgreSQL · Redis · Postman · Figma
@@ -73,7 +73,7 @@ language       日本語 (Japanese)
 ---
 
 ```console
-$ ctcd ~/about_me
+$ ctcd ~/user/2early4coffee/about_me
 
 I'm in the middle of a deliberate shift into tech.
 Running a curiosity-driven learning experience — learning to code,
@@ -136,7 +136,7 @@ Enjoy attending the orchestra 😊
 ---
 
 ```console
-$ connect --user 2early4coffee
+$ ctcd ~/user/2early4coffee/connect
 
 Twitter  : @2early4coffee        → https://twitter.com/2early4coffee
 Email    : walteniumroy@gmail.com
@@ -153,7 +153,7 @@ Portfolio: 2early4coffee.github.io
 
 <br/>
 
-*the interface is the message.*
+*writing code, building things, figuring it out.*
 
 <br/>
 
