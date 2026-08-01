@@ -63,7 +63,7 @@ $ ctcd ~/user/2early4coffee/stack/what_i_am_learning
 
 learning       React · Angular · Django · a bit of Java · DSA
 building with  Docker · PostgreSQL · Redis · Postman · Figma
-next up        Java · Go · Three.js · Cloud deployment
+next up        Java · Go · Three.js · Cloud technology
 looking ahead  C/C++ · Rust
 reading        "Express in Action" — Evan M. Hahn
                "Docker Deep Dive" — Nigel Poulton
@@ -76,7 +76,7 @@ language       日本語 (Japanese)
 $ ctcd ~/user/2early4coffee/about_me
 
 I'm in the middle of a deliberate shift into tech.
-Running a curiosity-driven learning experience — learning to code,
+Running a curiosity-driven learning experience that includes: learning to code,
 understanding how systems are built, solving problems.
 Hopefully one day I'll get to teach what I've learned to others.
 
@@ -84,7 +84,7 @@ Not entirely sure about the career path yet — but I have a strong
 pull toward spatial engineering and interactive tech.
 
 Open to: junior roles · collaboration · volunteer opportunities
-         mentorship · job shadowing with experienced devs
+         mentorship · job shadowing with experienced devs · peer-to-peer collabs
 ```
 
 ---
@@ -127,9 +127,9 @@ Open to: junior roles · collaboration · volunteer opportunities
 $ ctcd ~/user/2early4coffee/beyond_code
 
 I kinda hike sometimes.
-On a break from running and endurance sports until I figure out life first.
+On a break from running and endurance sports until I figure out my life first.
 Play video games when I get the chance.
-In an alternative universe I'd be a space cargo ship pilot.
+In an alternative universe I'd be a spaceship cargo pilot.
 Enjoy attending the orchestra 😊
 ```
 
