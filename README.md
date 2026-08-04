@@ -27,28 +27,35 @@
 **Walter Roy**
 `@2early4coffee`
 
-*learning to code*
+*comms → design → code*
 
 </td>
 <td valign="top">
 
-```console
-$ ctcd ~/user/2early4coffee/who_is_he
+```json
+// $ ctcd ~/user/2early4coffee/who_is_he
 
-role      : full-stack engineer in training
-            ui/ux designer
-            occasional game dev
-languages : JavaScript · Python · C#
-frameworks: Angular · React · Django
-databases : MongoDB · MySQL · PostgreSQL
-design    : Figma
-infra     : Docker
-uptime    : May 2026 — actively coding & learning
-
-philosophy: every day's plan: {
-  try a little,
-  try not to breakdown even a little,
-  & win a little 😊
+{
+  "who_is_he": {
+    "role": [
+      "full-stack engineer in training",
+      "ui/ux designer",
+      "occasional game dev"
+    ],
+    "languages": ["JavaScript", "Python", "C#"],
+    "frameworks": ["Angular", "React", "Django"],
+    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+    "design": ["Figma"],
+    "infra": ["Docker"],
+    "uptime": "May 2026 — actively coding & learning",
+    "philosophy": {
+      "every_days_plan": [
+        "try a little",
+        "try not to breakdown even a little",
+        "& win a little 😊"
+      ]
+    }
+  }
 }
 ```
 
@@ -58,32 +65,51 @@ philosophy: every day's plan: {
 
 ---
 
-```console
-$ ctcd ~/user/2early4coffee/stack/what_i_am_learning
+```json
+// $ ctcd ~/user/2early4coffee/stack/what_am_i_learning
 
-learning       React · Angular · Django · a bit of Java · DSA
-building with  Docker · PostgreSQL · Redis · Postman · Figma
-next up        Java · Go · Three.js · Cloud technology
-looking ahead  C/C++ · Rust
-reading        "Express in Action" — Evan M. Hahn
-               "Docker Deep Dive" — Nigel Poulton
-language       日本語 (Japanese)
+{
+  "what_am_i_learning": {
+    "learning": ["React", "Angular", "Django", "a bit of Java", "DSA"],
+    "building_with": ["Docker", "PostgreSQL", "Redis", "Postman", "Figma"],
+    "next_up": ["Java", "Go", "Three.js", "Cloud technology"],
+    "looking_ahead": ["C/C++", "Rust"],
+    "reading": [
+      "Express in Action — Evan M. Hahn",
+      "Docker Deep Dive — Nigel Poulton"
+    ],
+    "language": "日本語 (Japanese)"
+  }
+}
 ```
 
 ---
 
-```console
-$ ctcd ~/user/2early4coffee/about_me
+```json
+// $ ctcd ~/about_me
 
-I'm in the middle of a deliberate shift into tech. Running a curiosity-driven learning experience that includes:
-learning to code,understanding how systems are built, solving problems. Hopefully one day I'll get to
-teach what I've learned to others.
-
-Not entirely sure about the career path yet; but I have a strong pull toward spatial engineering and interactive
-tech.
-
-Open to: junior roles · collaboration · volunteer opportunities
-         mentorship · job shadowing with experienced devs · peer-to-peer collabs
+{
+  "about_me": {
+    "status": "deliberate shift into tech",
+    "approach": "curiosity-driven learning",
+    "currently": [
+      "learning to code",
+      "understanding how systems are built",
+      "solving problems"
+    ],
+    "goal": "teach what I've learned to others one day",
+    "career_path": "not entirely sure yet",
+    "interests": ["spatial engineering", "interactive tech"],
+    "open_to": [
+      "junior roles",
+      "collaboration",
+      "volunteer opportunities",
+      "mentorship",
+      "job shadowing with experienced devs",
+      "peer-to-peer collabs"
+    ]
+  }
+}
 ```
 
 ---
@@ -98,10 +124,14 @@ Open to: junior roles · collaboration · volunteer opportunities
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=2early4coffee&show_icons=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b61ff&text_color=ffffff&border_color=30363d&count_private=true" alt="Walter's GitHub Stats"/>
 </picture>
 
+</div>
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=compact&bg_color=ffffff&title_color=0d1117&text_color=24292f&border_color=e1e4e8&langs_count=8"/>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&langs_count=8"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&langs_count=8" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=donut&bg_color=ffffff&title_color=0d1117&text_color=24292f&border_color=e1e4e8&langs_count=8&hide_border=false"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=donut&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&langs_count=8&hide_border=false"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2early4coffee&layout=donut&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&border_color=30363d&langs_count=8&hide_border=false" alt="Top Languages"/>
 </picture>
 
 </div>
@@ -122,24 +152,32 @@ Open to: junior roles · collaboration · volunteer opportunities
 
 ---
 
-```console
-$ ctcd ~/user/2early4coffee/beyond_code
+```json
+// $ ctcd ~/user/2early4coffee/beyond_code
 
-I kinda hike sometimes.
-On a break from running and endurance sports until I figure out my life first.
-Play video games when I get the chance.
-In an alternative universe I'd be a spaceship cargo pilot.
-Enjoy attending the orchestra 😊
+{
+  "beyond_code": {
+    "outdoors": "kinda hike sometimes",
+    "on_break_from": "running and endurance sports (figuring out life first)",
+    "gaming": "when I get the chance",
+    "alternate_universe": "spaceship cargo pilot",
+    "culture": "enjoy attending the orchestra 😊"
+  }
+}
 ```
 
 ---
 
-```console
-$ ctcd ~/user/2early4coffee/connect
+```json
+// $ connect --user 2early4coffee
 
-Twitter  : @2early4coffee        → https://twitter.com/2early4coffee
-Email    : walteniumroy@gmail.com
-Portfolio: 2early4coffee.github.io
+{
+  "connect": {
+    "twitter": "@2early4coffee → https://twitter.com/2early4coffee",
+    "email": "walteniumroy@gmail.com",
+    "portfolio": "https://2early4coffee.github.io"
+  }
+}
 ```
 
 <div align="center">
@@ -152,7 +190,7 @@ Portfolio: 2early4coffee.github.io
 
 <br/>
 
-*writing code, building things, figuring it out.*
+*the interface is the message.*
 
 <br/>
 
