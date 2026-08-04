@@ -190,7 +190,7 @@
 
 <br/>
 
-*the interface is the message.*
+*writing code, building things, figuring it out.*
 
 <br/>
 
