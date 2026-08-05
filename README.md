@@ -100,7 +100,7 @@
     ],
     "goal": "teach what I've learned to others one day",
     "career_path": "not entirely sure yet",
-    "interests": ["spatial engineering", "interactive tech"],
+    "interests": ["spatial computing engineering" & "interactive tech"],
     "open_to": [
       "junior roles",
       "collaboration",
