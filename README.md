@@ -27,7 +27,7 @@
 **Walter Roy**
 `@2early4coffee`
 
-*sleep → cope → repeat*
+*learn → code → ship → repeat*
 
 </td>
 <td valign="top">
