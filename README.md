@@ -43,10 +43,12 @@
       "occasional game dev"
     ],
     "languages": ["JavaScript", "Python", "C#"],
-    "frameworks": ["Angular", "React", "Django"],
-    "databases": ["MongoDB", "MySQL", "PostgreSQL"],
-    "design": ["Figma"],
-    "infra": ["Docker"],
+    "comfortable_with": {
+      "backend": ["Node.js", "Express.js"],
+      "frontend": ["HTML5", "CSS3",],
+      "databases": ["MongoDB", "MySQL", "PostgreSQL"],
+      "tools": ["Git", "Figma", "Postman", "Docker (foundational)"]
+    },
     "uptime": "May 2026 — actively coding & learning",
     "philosophy": {
       "every_days_plan": [
@@ -70,15 +72,14 @@
 
 {
   "what_am_i_learning": {
-    "learning": ["React", "Angular", "Django", "a bit of Java", "DSA"],
-    "building_with": ["Docker", "PostgreSQL", "Redis", "Postman", "Figma"],
-    "next_up": ["Java", "Go", "Three.js", "Cloud technology"],
-    "looking_ahead": ["C/C++", "Rust"],
+    "currently": ["React", "Angular", "Django", "Java (Spring Boot)", "DSA"],
+    "next_up": ["Go", "Three.js", "Cloud (AWS)", "TypeScript"],
+    "looking_ahead": ["C++", "C", "Kubernetes"],
     "reading": [
       "Express in Action — Evan M. Hahn",
       "Docker Deep Dive — Nigel Poulton"
     ],
-    "language": "日本語 (Japanese)"
+    "also_learning": "日本語 (Japanese)"
   }
 }
 ```
