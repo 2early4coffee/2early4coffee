@@ -27,7 +27,7 @@
 **Walter Roy**
 `@2early4coffee`
 
-*comms → design → code*
+*sleep → cope → repeat*
 
 </td>
 <td valign="top">
@@ -72,8 +72,8 @@
 
 {
   "what_am_i_learning": {
-    "currently": ["React", "Angular", "Django", "Java (Spring Boot)", "DSA"],
-    "next_up": ["Go", "Three.js", "Cloud (AWS)", "TypeScript"],
+    "currently": [ "TypeScript", "React", "Angular", "Django", "Java (Spring Boot)"],
+    "next_up": ["Go", "Vue", "Cloud (AWS)"],
     "looking_ahead": ["C++", "C", "Kubernetes"],
     "reading": [
       "Express in Action — Evan M. Hahn",
