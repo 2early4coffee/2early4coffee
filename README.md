@@ -45,7 +45,7 @@
     "languages": ["JavaScript", "Python", "C#"],
     "comfortable_with": {
       "backend": ["Node.js", "Express.js"],
-      "frontend": ["HTML5", "CSS3",],
+      "frontend": ["HTML5", "CSS3"],
       "databases": ["MongoDB", "MySQL", "PostgreSQL"],
       "tools": ["Git", "Figma", "Postman", "Docker (foundational)"]
     },
